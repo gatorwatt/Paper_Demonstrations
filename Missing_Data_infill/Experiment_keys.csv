@@ -1,0 +1,49 @@
+index,data set,target column,missing data type,infill type,ratio 0,ratio 0.1,ratio 0.33,ratio 0.66,ratio 1
+0,Boston Housing,numeric target,missingatrandom,stndrdinfill,0,1,2,3,4
+1,Boston Housing,numeric target,missingatrandom,adjinfill,20,21,22,23,24
+2,Boston Housing,numeric target,missingatrandom,modeinfill,40,41,42,43,44
+3,Boston Housing,numeric target,missingatrandom,MLinfill,60,61,62,63,64
+4,Boston Housing,numeric target,numeric,stndrdinfill,5,6,7,8,9
+5,Boston Housing,numeric target,numeric,adjinfill,25,26,27,28,29
+6,Boston Housing,numeric target,numeric,modeinfill,45,46,47,48,49
+7,Boston Housing,numeric target,numeric,MLinfill,65,66,67,68,69
+8,Boston Housing,categoric target,missingatrandom,stndrdinfill,10,11,12,13,14
+9,Boston Housing,categoric target,missingatrandom,adjinfill,30,31,32,33,34
+10,Boston Housing,categoric target,missingatrandom,modeinfill,50,51,52,53,54
+11,Boston Housing,categoric target,missingatrandom,MLinfill,70,71,72,73,74
+12,Boston Housing,categoric target,categoric,stndrdinfill,15,16,17,18,19
+13,Boston Housing,categoric target,categoric,adjinfill,35,36,37,38,39
+14,Boston Housing,categoric target,categoric,modeinfill,55,56,57,58,59
+15,Boston Housing,categoric target,categoric,MLinfill,75,76,77,78,79
+16,Allstate,numeric target,missingatrandom,stndrdinfill,80,81,82,83,84
+17,Allstate,numeric target,missingatrandom,adjinfill,100,101,102,103,104
+18,Allstate,numeric target,missingatrandom,modeinfill,120,121,122,123,124
+19,Allstate,numeric target,missingatrandom,MLinfill,140,141,142,143,144
+20,Allstate,numeric target,numeric,stndrdinfill,85,86,87,88,89
+21,Allstate,numeric target,numeric,adjinfill,105,106,107,108,109
+22,Allstate,numeric target,numeric,modeinfill,125,126,127,128,129
+23,Allstate,numeric target,numeric,MLinfill,145,146,147,148,149
+24,Allstate,categoric target,missingatrandom,stndrdinfill,90,91,92,93,94
+25,Allstate,categoric target,missingatrandom,adjinfill,110,111,112,113,114
+26,Allstate,categoric target,missingatrandom,modeinfill,130,131,132,133,134
+27,Allstate,categoric target,missingatrandom,MLinfill,150,151,152,153,154
+28,Allstate,categoric target,categoric,stndrdinfill,95,96,97,98,99
+29,Allstate,categoric target,categoric,adjinfill,115,116,117,118,119
+30,Allstate,categoric target,categoric,modeinfill,135,136,137,138,139
+31,Allstate,categoric target,categoric,MLinfill,155,156,157,158,159
+32,IEEE,numeric target,missingatrandom,stndrdinfill,160,161,162,163,164
+33,IEEE,numeric target,missingatrandom,adjinfill,180,181,182,183,184
+34,IEEE,numeric target,missingatrandom,modeinfill,200,201,202,203,204
+35,IEEE,numeric target,missingatrandom,MLinfill,220,221,222,223,224
+36,IEEE,numeric target,numeric,stndrdinfill,165,166,167,168,169
+37,IEEE,numeric target,numeric,adjinfill,185,186,187,188,189
+38,IEEE,numeric target,numeric,modeinfill,205,206,207,208,209
+39,IEEE,numeric target,numeric,MLinfill,225,226,227,228,229
+40,IEEE,categoric target,missingatrandom,stndrdinfill,170,171,172,173,174
+41,IEEE,categoric target,missingatrandom,adjinfill,190,191,192,193,194
+42,IEEE,categoric target,missingatrandom,modeinfill,210,211,212,213,214
+43,IEEE,categoric target,missingatrandom,MLinfill,230,231,232,233,234
+44,IEEE,categoric target,categoric,stndrdinfill,175,176,177,178,179
+45,IEEE,categoric target,categoric,adjinfill,195,196,197,198,199
+46,IEEE,categoric target,categoric,modeinfill,215,216,217,218,219
+47,IEEE,categoric target,categoric,MLinfill,235,236,237,238,239
